@@ -11,3 +11,12 @@ C:\stash\CentralAdminLibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\System.Data.SqlClient.dll
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\System.Data.SqlClient.xml
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.csprojResolveAssemblyReference.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.csproj.CoreCompileInputs.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.AssemblyInfoInputs.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.AssemblyInfo.cs
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.dll
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Service.pdb
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Service.deps.json
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Service.dll
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Service\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Service.pdb

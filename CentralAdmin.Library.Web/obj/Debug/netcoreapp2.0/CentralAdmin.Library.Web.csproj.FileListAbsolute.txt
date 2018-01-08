@@ -11,3 +11,16 @@ C:\stash\CentralAdminLibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\Ce
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.AssemblyInfo.cs
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.dll
 C:\stash\CentralAdminLibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.pdb
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Web.deps.json
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Web.runtimeconfig.json
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Web.runtimeconfig.dev.json
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Web.dll
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Web.pdb
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Service.dll
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\bin\Debug\netcoreapp2.0\CentralAdmin.Library.Service.pdb
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.csprojResolveAssemblyReference.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.csproj.CoreCompileInputs.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.AssemblyInfoInputs.cache
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.AssemblyInfo.cs
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.dll
+C:\stash\123\centraladminlibrary\CentralAdmin.Library.Web\obj\Debug\netcoreapp2.0\CentralAdmin.Library.Web.pdb

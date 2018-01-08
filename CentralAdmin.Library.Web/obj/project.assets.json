@@ -4854,6 +4854,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.0.0",
           "MySql.Data": "6.10.5",
           "StructureMap.Microsoft.DependencyInjection": "1.4.0"
         },
@@ -12877,11 +12878,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\stash\\CentralAdminLibrary\\CentralAdmin.Library.Web\\CentralAdmin.Library.Web.csproj",
+      "projectUniqueName": "C:\\stash\\123\\centraladminlibrary\\CentralAdmin.Library.Web\\CentralAdmin.Library.Web.csproj",
       "projectName": "CentralAdmin.Library.Web",
-      "projectPath": "C:\\stash\\CentralAdminLibrary\\CentralAdmin.Library.Web\\CentralAdmin.Library.Web.csproj",
+      "projectPath": "C:\\stash\\123\\centraladminlibrary\\CentralAdmin.Library.Web\\CentralAdmin.Library.Web.csproj",
       "packagesPath": "C:\\Users\\nukathom\\.nuget\\packages\\",
-      "outputPath": "C:\\stash\\CentralAdminLibrary\\CentralAdmin.Library.Web\\obj\\",
+      "outputPath": "C:\\stash\\123\\centraladminlibrary\\CentralAdmin.Library.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12902,8 +12903,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\stash\\CentralAdminLibrary\\CentralAdmin.Library.Service\\CentralAdmin.Library.Service.csproj": {
-              "projectPath": "C:\\stash\\CentralAdminLibrary\\CentralAdmin.Library.Service\\CentralAdmin.Library.Service.csproj"
+            "C:\\stash\\123\\centraladminlibrary\\CentralAdmin.Library.Service\\CentralAdmin.Library.Service.csproj": {
+              "projectPath": "C:\\stash\\123\\centraladminlibrary\\CentralAdmin.Library.Service\\CentralAdmin.Library.Service.csproj"
             }
           }
         }
