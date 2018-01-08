@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26906.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralAdmin.Library.Web", "CentralAdmin.Library.Web\CentralAdmin.Library.Web.csproj", "{1F08B810-2EEF-4C93-A4F1-4D63D7B1B390}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralAdmin.Library.Service", "CentralAdmin.Library.Service\CentralAdmin.Library.Service.csproj", "{C3900413-088E-464B-AFD0-40012419128A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F08B810-2EEF-4C93-A4F1-4D63D7B1B390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F08B810-2EEF-4C93-A4F1-4D63D7B1B390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F08B810-2EEF-4C93-A4F1-4D63D7B1B390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F08B810-2EEF-4C93-A4F1-4D63D7B1B390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3900413-088E-464B-AFD0-40012419128A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3900413-088E-464B-AFD0-40012419128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3900413-088E-464B-AFD0-40012419128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3900413-088E-464B-AFD0-40012419128A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7119F76A-A743-4872-99CD-B47F8B2E1EC7}
+	EndGlobalSection
+EndGlobal
